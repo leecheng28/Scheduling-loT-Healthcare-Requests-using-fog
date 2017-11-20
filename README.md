@@ -1,3 +1,4 @@
-# fit3036-project-leecheng28
+# Experiment and Testing
 
-For experiment steps and test cases, please refer to Final Report (pdf), Test Report (pdf).
+For experiment steps, please refer to Final Report (pdf).
+For test cases,  please refer to Test Report (pdf).
